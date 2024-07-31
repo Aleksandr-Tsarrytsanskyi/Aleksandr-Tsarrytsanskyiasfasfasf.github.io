@@ -420,10 +420,10 @@ document.addEventListener("DOMContentLoaded", init);
       en: "After-sales service<br> for manufacturers",
     },
     servicetext1: {
-      ua: "Одна з наших додаткових можливостей, яку ми пропозицією для наших партнерів є надання послуг з обслуговування.",
-      de: "Eine unserer zusätzlichen Leistungen, die wir unseren Partnern anbieten, ist die Bereitstellung von Wartungsdiensten.",
-      pl: "Jedną z naszych dodatkowych możliwości, którą oferujemy naszym partnerom, jest świadczenie usług konserwacyjnych.",
-      en: "One of our additional capabilities that we offer to our partners is the provision of maintenance services.",
+      ua: "Одна з наших додаткових можливостей, <br>яку ми пропозицією для наших партнерів є <br>надання послуг з обслуговування.",
+      de: "Eine unserer zusätzlichen Leistungen, <br>die wir unseren Partnern anbieten, <br>ist die Bereitstellung von Wartungsdiensten.",
+      pl: "Jedną z naszych dodatkowych możliwości, <br>którą oferujemy naszym partnerom, <br>jest świadczenie usług konserwacyjnych.",
+      en: "One of our additional capabilities that we<br> offer to our partners is the provision of<br> maintenance services.",
     },
     servicetext2: {
       ua: "Наш штат включає ліцензованих інженерів та співробітників. Взаємодія з клієнтом базується на чесному та прозорому спілкуванні.",
