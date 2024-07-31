@@ -414,10 +414,10 @@ document.addEventListener("DOMContentLoaded", init);
       en: "We give more than you expect.",
     },
     titleservice: {
-      ua: "Гарантійне обслуговування виробників",
-      de: "After-Sales-Service für Hersteller",
-      pl: "Obsługa posprzedażowa dla producentów",
-      en: "After-sales service for manufacturers",
+      ua: "Гарантійне <br>обслуговування<br> виробників",
+      de: "After-Sales-Service<br> für Hersteller",
+      pl: "Obsługa posprzedażowa<br> dla producentów",
+      en: "After-sales service<br> for manufacturers",
     },
     servicetext1: {
       ua: "Одна з наших додаткових можливостей, яку ми пропозицією для наших партнерів є надання послуг з обслуговування.",
